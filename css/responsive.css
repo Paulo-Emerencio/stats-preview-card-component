@@ -69,7 +69,7 @@
 }
 
 @media (min-width: 1100px) {
-    .stats-block > p + p {
+    .stats-block > h2 {
         font-size: .8em;
     }
 }

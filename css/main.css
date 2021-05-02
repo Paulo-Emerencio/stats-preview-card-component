@@ -101,7 +101,7 @@ body {
     font-size: 1.6em;
     padding-bottom: 10px;
 }
-.stats-block > p + p {
+.stats-block > h2 {
     font-size: .75em;
     text-transform: uppercase;
     letter-spacing: 1px;
